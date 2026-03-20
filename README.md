@@ -1,24 +1,44 @@
-# Try Now: SimpleTrade
+# Scan And Open
 
-Real-time simulator - Portfolio tracking - Clean UX - Trading practice
+<p align="center">
+Tap any QR to open instantly
+</p>
 
-[![SimpleTrade QR](https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-simple-trade.png)](https://sudonils42.github.io/simple-trade/)
-
-# Try Now: Easy Jam
-
-Instant audio sync - Multi-device - QR join - Local network
-
-[![Easy Jam QR](https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-easy-jam.png)](https://play.google.com/store/apps/details?id=com.easyjam.app)
-
-# Try Now: Villa Orea Bali
-
-Luxury rental site - Direct booking - Mobile first - Premium experience
-
-[![Villa Orea Bali QR](https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-villa-orea-bali.png)](https://villaoreabali.com)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://sudonils42.github.io/simple-trade/">
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-simple-trade.png" alt="SimpleTrade QR" width="150" />
+      </a>
+      <br/>
+      <strong>SimpleTrade</strong>
+      <br/>
+      Real-time simulator • Portfolio tracking • Clean UX
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.easyjam.app">
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-easy-jam.png" alt="Easy Jam QR" width="150" />
+      </a>
+      <br/>
+      <strong>Easy Jam</strong>
+      <br/>
+      Instant audio sync • Multi-device • QR join
+    </td>
+    <td align="center">
+      <a href="https://villaoreabali.com">
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-villa-orea-bali.png" alt="Villa Orea Bali QR" width="150" />
+      </a>
+      <br/>
+      <strong>Villa Orea Bali</strong>
+      <br/>
+      Luxury rental site • Direct booking • Mobile first
+    </td>
+  </tr>
+</table>
 
 ## Latest Followers
 
-<p>
+<p align="center">
 <!-- FOLLOWERS_START -->
 <a href="https://github.com/stellaaash"><img src="https://avatars.githubusercontent.com/u/87356603?v=4" width="56" height="56" alt="stellaaash" /></a>
 <a href="https://github.com/petermartens98"><img src="https://avatars.githubusercontent.com/u/87671757?v=4" width="56" height="56" alt="petermartens98" /></a>
