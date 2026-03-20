@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.easyjam.app">
-    <img src="assets/qr-easy-jam.png" alt="Easy Jam QR" width="180" />
+    <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-easy-jam.png" alt="Easy Jam QR" width="180" />
   </a>
   <a href="https://sudonils42.github.io/simple-trade/">
-    <img src="assets/qr-simple-trade.png" alt="Simple Trade QR" width="180" />
+    <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-simple-trade.png" alt="Simple Trade QR" width="180" />
   </a>
   <a href="https://villaoreabali.com">
-    <img src="assets/qr-villa-orea-bali.png" alt="Villa Orea Bali QR" width="180" />
+    <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-villa-orea-bali.png" alt="Villa Orea Bali QR" width="180" />
   </a>
 </p>
 
