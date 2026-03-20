@@ -26,7 +26,7 @@ Tap any QR to open instantly
     </td>
     <td align="center">
       <a href="https://villaoreabali.com">
-        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-villa-orea-bali.png" alt="Villa Orea Bali QR" width="150" />
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-villa-orea-bali-v2.png" alt="Villa Orea Bali QR" width="150" />
       </a>
       <br/>
       <strong>Villa Orea Bali</strong>
