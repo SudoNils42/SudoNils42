@@ -23,7 +23,7 @@ def fetch_followers():
 
 def build_block(followers):
     parts = []
-    for f in followers:
+    for f in reversed(followers):
         login = f["login"]
         avatar = f["avatar_url"]
         profile = f["html_url"]
