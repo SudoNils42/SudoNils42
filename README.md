@@ -16,7 +16,7 @@ Here are a few side projects:
         <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-simple-trade.png" alt="SimpleTrade QR" width="150" />
       </a>
       <br/>
-      <strong>SimpleTrade</strong>
+      <strong>Simple Trade</strong>
       <br/>
       Real-time market view for assets and crypto in one clean dashboard, plus risk-free trading simulation.
     </td>
