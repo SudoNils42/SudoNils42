@@ -13,7 +13,7 @@ END = "<!-- FOLLOWERS_END -->"
 QUERY = """
 query($login: String!, $count: Int!) {
   user(login: $login) {
-    followers(last: $count) {
+    followers(first: $count) {
       nodes {
         login
         avatarUrl
@@ -61,7 +61,7 @@ def fetch_followers():
 
     nodes = user["followers"]["nodes"] or []
     out = []
-    for n in reversed(nodes):
+    for n in nodes:
         out.append(
             {
                 "login": n["login"],
