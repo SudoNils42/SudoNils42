@@ -1,4 +1,5 @@
 import json
+import os
 import urllib.request
 
 
@@ -9,16 +10,18 @@ END = "<!-- FOLLOWERS_END -->"
 
 
 def fetch_followers():
-    req = urllib.request.Request(
-        API_URL,
-        headers={
-            "Accept": "application/vnd.github+json",
-            "User-Agent": "SudoNils42-followers-updater",
-        },
-    )
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "SudoNils42-followers-updater",
+    }
+
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    req = urllib.request.Request(API_URL, headers=headers)
     with urllib.request.urlopen(req, timeout=20) as response:
-        payload = response.read().decode("utf-8")
-    return json.loads(payload)
+        return json.loads(response.read().decode("utf-8"))
 
 
 def build_block(followers):
@@ -28,7 +31,9 @@ def build_block(followers):
         avatar = f["avatar_url"]
         profile = f["html_url"]
         parts.append(
-            f'<a href="{profile}"><img src="{avatar}" width="56" height="56" alt="{login}" /></a>'
+            f'<a href="{profile}">'
+            f'<img src="{avatar}" width="56" height="56" alt="{login}" />'
+            f'</a>'
         )
     return "\n".join(parts)
 
