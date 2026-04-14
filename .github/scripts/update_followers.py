@@ -3,30 +3,78 @@ import os
 import urllib.request
 
 
-API_URL = "https://api.github.com/users/SudoNils42/followers?per_page=12"
+GRAPHQL_URL = "https://api.github.com/graphql"
+LOGIN = "SudoNils42"
+COUNT = 12
 README_PATH = "README.md"
 START = "<!-- FOLLOWERS_START -->"
 END = "<!-- FOLLOWERS_END -->"
 
+QUERY = """
+query($login: String!, $count: Int!) {
+  user(login: $login) {
+    followers(last: $count) {
+      nodes {
+        login
+        avatarUrl
+        url
+      }
+    }
+  }
+}
+"""
+
 
 def fetch_followers():
-    headers = {
-        "Accept": "application/vnd.github+json",
-        "User-Agent": "SudoNils42-followers-updater",
-    }
-
     token = os.environ.get("GITHUB_TOKEN")
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN is required")
 
-    req = urllib.request.Request(API_URL, headers=headers)
-    with urllib.request.urlopen(req, timeout=20) as response:
-        return json.loads(response.read().decode("utf-8"))
+    body = json.dumps(
+        {
+            "query": QUERY,
+            "variables": {"login": LOGIN, "count": COUNT},
+        }
+    ).encode("utf-8")
+
+    req = urllib.request.Request(
+        GRAPHQL_URL,
+        data=body,
+        method="POST",
+        headers={
+            "Accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {token}",
+            "User-Agent": "SudoNils42-followers-updater",
+            "Content-Type": "application/json",
+        },
+    )
+
+    with urllib.request.urlopen(req, timeout=30) as response:
+        payload = json.loads(response.read().decode("utf-8"))
+
+    if payload.get("errors"):
+        raise RuntimeError(json.dumps(payload["errors"]))
+
+    user = payload.get("data", {}).get("user")
+    if not user:
+        raise RuntimeError("user not found")
+
+    nodes = user["followers"]["nodes"] or []
+    out = []
+    for n in reversed(nodes):
+        out.append(
+            {
+                "login": n["login"],
+                "avatar_url": n["avatarUrl"],
+                "html_url": n["url"],
+            }
+        )
+    return out
 
 
 def build_block(followers):
     parts = []
-    for f in reversed(followers):
+    for f in followers:
         login = f["login"]
         avatar = f["avatar_url"]
         profile = f["html_url"]
