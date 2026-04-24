@@ -43,7 +43,7 @@ Here are a few side projects:
 
 ## Thanks To My Latest Followers (updated every 6h)
 
-<p align="center"><!-- FOLLOWERS_START --><!-- FOLLOWERS_END --></p>
+<!-- FOLLOWERS_START --><!-- FOLLOWERS_END -->
 
 ## Tech Stack
 
