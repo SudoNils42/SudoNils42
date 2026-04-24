@@ -48,10 +48,10 @@ Here are a few side projects:
 <a href="https://github.com/4hyeon"><img src="https://avatars.githubusercontent.com/u/202469885?u=651304a6316a3523848d797f7417401140a7c7e6&v=4" width="56" height="56" alt="4hyeon" /></a>
 <a href="https://github.com/youyou240"><img src="https://avatars.githubusercontent.com/u/98917982?u=6178b788e027da95e8c3305f6a79da8098c3a2e8&v=4" width="56" height="56" alt="youyou240" /></a>
 <a href="https://github.com/nykoco"><img src="https://avatars.githubusercontent.com/u/233224364?u=0f1faf49433ccff8e133b5e70a3d63b32df22c8b&v=4" width="56" height="56" alt="nykoco" /></a>
-<a href="https://github.com/heliumheart"><img src="https://avatars.githubusercontent.com/u/220760864?u=227e6d9788dd9083a895b9fba521b6d4a2695ef8&v=4" width="56" height="56" alt="heliumheart" /></a>
+<a href="https://github.com/heliumheart"><img src="https://avatars.githubusercontent.com/u/220760864?u=643673d7f4333c1aa76c68a53a3632be048be9ae&v=4" width="56" height="56" alt="heliumheart" /></a>
 <a href="https://github.com/Yuni-Cat"><img src="https://avatars.githubusercontent.com/u/242777691?u=7419605421523f139054aa9b1f7032ff79cdbcfd&v=4" width="56" height="56" alt="Yuni-Cat" /></a>
 <a href="https://github.com/Seraphka"><img src="https://avatars.githubusercontent.com/u/205459427?u=1dc5c7df84a54cebf7887a0cdcdc626f927b3200&v=4" width="56" height="56" alt="Seraphka" /></a>
-<a href="https://github.com/gambling-addict"><img src="https://avatars.githubusercontent.com/u/179130175?u=9f7e54e3bd518374f94d7ccdffd9ceae1761d743&v=4" width="56" height="56" alt="gambling-addict" /></a>
+<a href="https://github.com/gambling-addict"><img src="https://avatars.githubusercontent.com/u/179130175?u=5a6eda4c3fe51569cfcea3f1e5e99a28895a870a&v=4" width="56" height="56" alt="gambling-addict" /></a>
 <a href="https://github.com/YoussefMoHlemyAlpha"><img src="https://avatars.githubusercontent.com/u/161648183?u=8515ecd9af17cba9ba5ebd5db1b41b89dae50f1c&v=4" width="56" height="56" alt="YoussefMoHlemyAlpha" /></a>
 <a href="https://github.com/thkm2"><img src="https://avatars.githubusercontent.com/u/146825568?u=d1558c20156893e8bdeb3292a5bda0f4dc792566&v=4" width="56" height="56" alt="thkm2" /></a>
 <a href="https://github.com/petermartens98"><img src="https://avatars.githubusercontent.com/u/87671757?u=66d3a84857373c2ba0f48bb9d94240727bacf76a&v=4" width="56" height="56" alt="petermartens98" /></a>
