@@ -83,7 +83,7 @@ def build_block(followers):
             f'<img src="{avatar}&s=56" width="56" height="56" alt="{login}" />'
             f'</a>'
         )
-    return "\n".join(items)
+    return "".join(items)
 
 
 def patch_readme(block):
@@ -96,7 +96,7 @@ def patch_readme(block):
         raise RuntimeError("followers markers not found")
 
     insert_start = start_idx + len(START)
-    new_content = content[:insert_start] + "\n" + block + "\n" + content[end_idx:]
+    new_content = content[:insert_start] + block + content[end_idx:]
 
     with open(README_PATH, "w", encoding="utf-8") as file:
         file.write(new_content)
