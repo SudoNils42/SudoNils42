@@ -73,18 +73,17 @@ def fetch_followers():
 
 
 def build_block(followers):
-    cells = ""
+    items = []
     for f in followers:
         login = f["login"]
         avatar = f["avatar_url"]
         profile = f["html_url"]
-        cells += (
-            f'<td align="center">'
+        items.append(
             f'<a href="{profile}">'
             f'<img src="{avatar}&s=56" width="56" height="56" alt="{login}" />'
-            f'</a></td>'
+            f'</a>'
         )
-    return f'<table><tr>{cells}</tr></table>'
+    return "\n".join(items)
 
 
 def patch_readme(block):
