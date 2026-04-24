@@ -6,7 +6,7 @@ import urllib.request
 GRAPHQL_URL = "https://api.github.com/graphql"
 LOGIN = "SudoNils42"
 COUNT = 12
-ROW_SIZE = 6
+ROW_SIZE = 12
 AVATAR_SIZE = 64
 README_PATH = "README.md"
 START = "<!-- FOLLOWERS_START -->"
