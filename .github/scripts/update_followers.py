@@ -83,7 +83,7 @@ def build_block(followers):
             f'<img src="{avatar}" width="56" height="56" alt="{login}" />'
             f'</a>'
         )
-    return "\n".join(parts)
+    return "".join(parts)
 
 
 def patch_readme(block):
