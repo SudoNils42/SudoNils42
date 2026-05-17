@@ -51,7 +51,7 @@ Here are a few side projects:
 <a href="https://github.com/heliumheart"><img src="https://avatars.githubusercontent.com/u/220760864?u=643673d7f4333c1aa76c68a53a3632be048be9ae&v=4" width="56" height="56" alt="heliumheart" /></a>
 <a href="https://github.com/Yuni-Cat"><img src="https://avatars.githubusercontent.com/u/242777691?u=7419605421523f139054aa9b1f7032ff79cdbcfd&v=4" width="56" height="56" alt="Yuni-Cat" /></a>
 <a href="https://github.com/Seraphka"><img src="https://avatars.githubusercontent.com/u/205459427?u=1dc5c7df84a54cebf7887a0cdcdc626f927b3200&v=4" width="56" height="56" alt="Seraphka" /></a>
-<a href="https://github.com/gambling-addict"><img src="https://avatars.githubusercontent.com/u/179130175?u=15f4302f1ab368302b5464895e0ffc52aae0e0fd&v=4" width="56" height="56" alt="gambling-addict" /></a>
+<a href="https://github.com/gambling-addict"><img src="https://avatars.githubusercontent.com/u/179130175?u=96ff3e3e9e3d4c54fd1e0bb41639aa36b5a6dd0f&v=4" width="56" height="56" alt="gambling-addict" /></a>
 <a href="https://github.com/YoussefMoHlemyAlpha"><img src="https://avatars.githubusercontent.com/u/161648183?u=8515ecd9af17cba9ba5ebd5db1b41b89dae50f1c&v=4" width="56" height="56" alt="YoussefMoHlemyAlpha" /></a>
 <a href="https://github.com/thkm2"><img src="https://avatars.githubusercontent.com/u/146825568?u=d1558c20156893e8bdeb3292a5bda0f4dc792566&v=4" width="56" height="56" alt="thkm2" /></a>
 <a href="https://github.com/petermartens98"><img src="https://avatars.githubusercontent.com/u/87671757?u=66d3a84857373c2ba0f48bb9d94240727bacf76a&v=4" width="56" height="56" alt="petermartens98" /></a>
