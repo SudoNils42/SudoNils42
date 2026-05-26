@@ -27,7 +27,7 @@ Here are a few side projects:
       <br/>
       <strong>Easy Jam</strong>
       <br/>
-      Built first for personal use, now downloaded by hundreds: sync music with friends easily, each with their own headphones.
+      Built first for personal use, now downloaded by thousands: sync music with friends easily, each with their own headphones.
     </td>
     <td align="center">
       <a href="https://villaoreabali.com">
