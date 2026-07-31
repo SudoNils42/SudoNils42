@@ -2,25 +2,54 @@
 
 After passing the 42 Lausanne Piscine, I continued building projects with a clean, modular, and readable approach.
 
-- 42 Piscine projects: [42_Piscine](https://github.com/SudoNils42/42_Piscine)
-- Common Core projects: [42_Common_Core](https://github.com/SudoNils42/42_Common_Core)
-
-Most of my school work is in C/C++, with additional projects in systems, networking, and fullstack development.
-
-Here are a few side projects:
+## My 42 projects
 
 <table>
   <tr>
-    <td align="center">
+    <td valign="top" width="68%">
+      <strong>From C fundamentals to systems engineering</strong>
+      <br/><br/>
+      My Common Core repository brings together my main work at 42 Lausanne, primarily in C and C++. It covers Unix processes, concurrency, graphics, networking, HTTP servers, containers, and full-stack development.
+      <br/><br/>
+      <sub>Earlier work: <a href="https://github.com/SudoNils42/42_Piscine">42 Piscine projects</a> — C fundamentals, algorithms, shell tools, and peer-driven problem solving.</sub>
+    </td>
+    <td align="center" valign="middle" width="32%">
+      <a href="https://github.com/SudoNils42/42_Common_Core">
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-common-core.png" alt="42 Common Core repository QR" width="180" />
+      </a>
+      <br/>
+      <a href="https://github.com/SudoNils42/42_Common_Core"><strong>42_Common_Core</strong></a>
+    </td>
+  </tr>
+</table>
+
+Outside 42, I build and ship web, mobile, and blockchain products.
+
+## Side Projects
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://my-invest.app/">
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-my-invest.png" alt="My Invest QR" width="150" />
+      </a>
+      <br/>
+      <strong>My Invest</strong>
+      <br/>
+      Self-custody investment platform for tokenized stocks, crypto, ETFs, and commodities from one clean interface, with assets sent directly to the user's wallet.
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://sudonils42.github.io/simple-trade/">
-        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-simple-trade.png" alt="SimpleTrade QR" width="150" />
+        <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-simple-trade.png" alt="Simple Trade QR" width="150" />
       </a>
       <br/>
       <strong>Simple Trade</strong>
       <br/>
       Real-time market view for assets and crypto in one clean dashboard, plus risk-free trading simulation.
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <a href="https://play.google.com/store/apps/details?id=com.easyjam.app">
         <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-easy-jam.png" alt="Easy Jam QR" width="150" />
       </a>
@@ -29,7 +58,7 @@ Here are a few side projects:
       <br/>
       Built first for personal use, now downloaded by thousands: sync music with friends easily, each with their own headphones.
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="50%">
       <a href="https://villaoreabali.com">
         <img src="https://raw.githubusercontent.com/SudoNils42/SudoNils42/main/assets/qr-villa-orea-bali-v2.png" alt="Villa Orea Bali QR" width="150" />
       </a>
@@ -41,32 +70,17 @@ Here are a few side projects:
   </tr>
 </table>
 
-## Thanks To My Latest Followers (updated every 6h)
-
-<p align="center">
-<!-- FOLLOWERS_START -->
-<a href="https://github.com/qumiuo"><img src="https://avatars.githubusercontent.com/u/202469885?u=0a3f190d66114d490bbb14cb5aba40be9aeaeb4e&v=4" width="56" height="56" alt="qumiuo" /></a>
-<a href="https://github.com/youyou240"><img src="https://avatars.githubusercontent.com/u/98917982?u=6178b788e027da95e8c3305f6a79da8098c3a2e8&v=4" width="56" height="56" alt="youyou240" /></a>
-<a href="https://github.com/nykoco"><img src="https://avatars.githubusercontent.com/u/233224364?u=f31884ae675f7f9bf27e3db0cf1ae15caba4df95&v=4" width="56" height="56" alt="nykoco" /></a>
-<a href="https://github.com/heliumheart"><img src="https://avatars.githubusercontent.com/u/220760864?u=643673d7f4333c1aa76c68a53a3632be048be9ae&v=4" width="56" height="56" alt="heliumheart" /></a>
-<a href="https://github.com/Yuni-Cat"><img src="https://avatars.githubusercontent.com/u/242777691?u=7419605421523f139054aa9b1f7032ff79cdbcfd&v=4" width="56" height="56" alt="Yuni-Cat" /></a>
-<a href="https://github.com/Seraphka"><img src="https://avatars.githubusercontent.com/u/205459427?u=1dc5c7df84a54cebf7887a0cdcdc626f927b3200&v=4" width="56" height="56" alt="Seraphka" /></a>
-<a href="https://github.com/gambling-addict"><img src="https://avatars.githubusercontent.com/u/179130175?u=2ff98295a9e875f84d7fe15d411dac34a1beef5b&v=4" width="56" height="56" alt="gambling-addict" /></a>
-<a href="https://github.com/YoussefMoHlemyAlpha"><img src="https://avatars.githubusercontent.com/u/161648183?u=8515ecd9af17cba9ba5ebd5db1b41b89dae50f1c&v=4" width="56" height="56" alt="YoussefMoHlemyAlpha" /></a>
-<a href="https://github.com/thkm2"><img src="https://avatars.githubusercontent.com/u/146825568?u=d1558c20156893e8bdeb3292a5bda0f4dc792566&v=4" width="56" height="56" alt="thkm2" /></a>
-<a href="https://github.com/petermartens98"><img src="https://avatars.githubusercontent.com/u/87671757?u=66d3a84857373c2ba0f48bb9d94240727bacf76a&v=4" width="56" height="56" alt="petermartens98" /></a>
-<a href="https://github.com/stellaaash"><img src="https://avatars.githubusercontent.com/u/87356603?u=e6c246f470983d07fbaf7076a48718f7de1a210e&v=4" width="56" height="56" alt="stellaaash" /></a>
-<a href="https://github.com/mercy4344"><img src="https://avatars.githubusercontent.com/u/173539292?u=ffb4c85ff89f3357397a12053c13ce036931f611&v=4" width="56" height="56" alt="mercy4344" /></a>
-<!-- FOLLOWERS_END -->
-</p>
-
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
